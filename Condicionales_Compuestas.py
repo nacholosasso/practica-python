@@ -16,3 +16,5 @@ else:
     print("Lo sentimos " + nombre + " has 'reprobado' con un promedio de: ", round(promedio,1))
 
 print("Fin.")
+#round es para variables de tipo flottante
+#else va a la misma altura qe if
