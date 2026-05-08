@@ -10,10 +10,10 @@ quimica = int(input(nombre + " ¿Cuál es tu calificación en química?: "))
 biologia = int(input(nombre + " ¿Cuál es tu calificación en biología?: "))
 
 promedio = (matematicas + quimica + biologia) / 3
-promedio = int(promedio)
+promedio = int(promedio) # para tenerlo entero!
 
 if promedio >= 6:
-    print('Felicidades ' + nombre + ' "aprobaste" con un promedio de: ', promedio)
+    print('Felicidades ' + nombre + ' "aprobaste" con un promedio de: ', promedio)#tiene que tener un tab 
 
 print("Fin.")
 
