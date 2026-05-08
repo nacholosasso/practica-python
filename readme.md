@@ -13,3 +13,5 @@ LINUX tambien pero a lo ultimo (me da una mano juan)
 pilas
 colas
 estructura de datos abstractos
+
+Comillas simpels o dobles es lo mismo.
