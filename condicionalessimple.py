@@ -1,3 +1,6 @@
+#Condicionales simples es sin else 
+
+
 print("Sistema para calcular el promedio de un alumno.")
 
 nombre = input("Para comenzar, ¿Cuál es tu nombre?: ")
