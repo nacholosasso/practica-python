@@ -4,3 +4,6 @@
 #Se puede usar "" en realida d no son comentarios sino que al no asignar variable lo interpreta como null
 "Hola"
 #signo de gato
+"""prueba
+"""
+print("solo se imprime esto")
